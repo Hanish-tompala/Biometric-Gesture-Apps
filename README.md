@@ -39,15 +39,3 @@ An alternative selfie tool triggered by the "V" or Peace gesture.
 
 ---
 
-## 📦 Installation & Usage
-
-1. **Clone the repository**:
-   ```bash
-   git clone [https://github.com/your-username/Biometric-Gesture-Apps.git](https://github.com/your-username/Biometric-Gesture-Apps.git)
-   cd Biometric-Gesture-Apps
-
-2. **Install dependencies**:
-
-```bash
-pip install opencv-python numpy mediapipe
-
