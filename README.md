@@ -9,14 +9,10 @@ This repository contains three innovative applications that utilize biometric ge
 
 ## Installation Instructions
 To install the applications, follow these steps:
-1. Clone the repository to your local machine:
+. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Hanish-tompala/Biometric-Gesture-Apps.git
    cd Biometric-Gesture-Apps
-   ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ## Dependencies
